@@ -14,13 +14,13 @@
 
 int main()
 {
-	std::string name = "ppp";
-	Galaxy galaxy(name, 20);
-	for (int i = 0; i < galaxy.getElementsCount(); i++)
+	std::string name = "Orion";
+	Galaxy galaxy(name, 2000000);
+	/*for (int i = 0; i < galaxy.getElementsCount(); i++)
 	{
 		std::cout << i <<" "<< galaxy.getSeedAt(i) << std::endl;
-	}
-	
+	}*/
+	std::cout << "end" << std::endl;
 	system("pause");
     return 0;
 }
