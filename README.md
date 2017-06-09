@@ -5,7 +5,7 @@ I worked on this project in order to learn how to make DLL in C++ and how to imp
 
 There is also a C# wrapper of the C++ DLL because it is easier to use a C# DLL in Unity.
 
-#How it work
+# How it work
 
 When generating a galaxy, if you have a billion stars, you can't have a million of objects star instantiated on your computer. So instead you manipulate Seeds.
 
